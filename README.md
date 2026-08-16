@@ -17,16 +17,16 @@ Three variants were needed depending on wall placement and desired behavior:
 
 **Demo:** [Hideout_Balcony_Fade.mov](https://github.com/davpqb/GraalOnline-Era-Levels/blob/main/screenshots/Hideout_Balcony_Fade.mov) shows the `wall_fade_black.txt` logic in action — the balcony fades out based on the player's proximity to it as they walk underneath, rather than a fixed room-zone split.
 
-## A small reverse-engineering challenge
+## A small challenge
 
-Not every effect in these levels has its script preserved. Here's a gif showing a set of double doors sliding open on player interaction — the script behind it wasn't kept, but the mechanism is a fun one to reason through. If you're curious: what would you check for (trigger zone, player action event, animation state) to reproduce this in GS2?
+Not every effect in these levels has its script preserved. Here's a gif showing a set of double doors sliding open on player interaction — the script behind it wasn't kept, but the mechanism is a fun one to reason through. 
 
 ![Door Opening](screenshots/Hideout_Door_Open.gif)
 
 ## Level screenshots
 
 ### Entrance
-![Hideout Entrance](Hideout_Entrance.png)
+![Hideout Entrance](screenshots/Hideout_Entrance_Bottom.png)
 
 ### Lobby
 ![Hideout Lobby](screenshots/Hideout_Lobby.png)

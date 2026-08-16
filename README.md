@@ -18,7 +18,7 @@ Three variants were needed depending on wall placement and desired behavior:
 ## Level screenshots
 
 ### Entrance
-![Hideout Entrance](screenshots/Hideout_Entrance.png)
+![Hideout Entrance](screenshots/Hideout_Entrance_Bottom.png)
 
 ### Lobby
 ![Hideout Lobby](screenshots/Hideout_Lobby.png)

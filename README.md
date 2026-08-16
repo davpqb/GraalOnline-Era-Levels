@@ -17,17 +17,14 @@ Three variants were needed depending on wall placement and desired behavior:
 
 ## Level screenshots
 
-### Hideout Entrance
+### Entrance
 ![Hideout Entrance](Hideout_Entrance.png)
 
-### Hideout Lobby
+### Lobby
 ![Hideout Lobby](Hideout_Lobby.png)
 
 ### Sparring Room
 ![Sparring Room](Hideout_Spar.png)
-
-### Throne Room
-![Throne Room](Hideout_Throne.png)
 
 ### Throne Room (with custom art)
 ![Throne Room with Art](Hideout_Throne_Incl_Art.png)

@@ -15,7 +15,7 @@ Three variants were needed depending on wall placement and desired behavior:
 - [`wall_fade_city.txt`](scripts/wall_fade_city.txt) — inverted trigger logic for exterior-facing walls
 - [`wall_fade_black.txt`](scripts/wall_fade_black.txt) — per-segment bounding-box detection instead of a fixed zone, used for interior partitions and standalone objects, with draw-order handling (`drawunderplayer()`) so the player renders correctly against the fading wall
 
-**Demo:** [Hideout_Balcony_Fade.mov](https://github.com/davpqb/GraalOnline-Era-Levels/blob/main/screenshots/Hideout_Balcony_Fade.mov) shows the `wall_fade_black.txt` logic in action — the balcony fades out based on the player's proximity to it as they walk underneath, rather than a fixed room-zone split.
+**Demo:** [Hideout_Balcony_Fade.mov](https://github.com/davpqb/GraalOnline-Era-Levels/blob/main/screenshots/Hideout_City_Fade.mov) shows the `wall_fade_black.txt` logic in action — the balcony fades out based on the player's proximity to it as they walk underneath, rather than a fixed room-zone split.
 
 ## A small challenge
 

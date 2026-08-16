@@ -1,0 +1,39 @@
+// Wall fade system — "white/city" tile variant
+// Fades wall segments out when the player walks into the flanking zones,
+// so interior spaces stay visible without hard cutaways.
+
+dontblock();
+drawoverplayer();
+
+//#CLIENTSIDE
+function onCreated(){
+	this.imgwidth = getimgwidth(this.image) / 16;
+	this.imgheight = getimgheight(this.image) / 16;
+	this.mode = 1;
+	onTimeOut();
+}
+
+function onTimeOut(){
+	if(client.player_screenshotting){
+		this.alpha = 1;
+		return setTimer(0.05);
+	}
+
+	temp.inleft = player.x + 1 in |0, 23| && player.y + 1.5 in |49, 64|;
+	temp.inright = player.x + 1 in |64-23, 64| && player.y + 1.5 in |49, 64|;
+
+	if(inleft || inright) fadeIn();
+	else fadeOut();
+
+	setTimer(0.05);
+}
+
+function fadeOut(){
+	if(this.alpha <= 0) return;
+	this.alpha -= 0.1;
+}
+
+function fadeIn(){
+	if(this.alpha >= 1) return;
+	if(this.alpha < 1) this.alpha += 0.1;
+}

@@ -21,19 +21,19 @@ Three variants were needed depending on wall placement and desired behavior:
 ![Hideout Entrance](Hideout_Entrance.png)
 
 ### Hideout Lobby
-![Hideout Lobby](screenshots/Hideout_Lobby.png)
+![Hideout Lobby](Hideout_Lobby.png)
 
 ### Sparring Room
-![Sparring Room](screenshots/Hideout_Spar.png)
+![Sparring Room](Hideout_Spar.png)
 
 ### Throne Room
-![Throne Room](screenshots/Hideout_Throne.png)
+![Throne Room](Hideout_Throne.png)
 
 ### Throne Room (with custom art)
-![Throne Room with Art](screenshots/Hideout_Throne_Incl_Art.png)
+![Throne Room with Art](Hideout_Throne_Incl_Art.png)
 
 ## Tile work
 
 Custom and curated tileset used across the 2020-era levels, organized by category (terrain, water, furniture, blocking/non-blocking objects, animated tiles):
 
-![Era 2020 Tileset](screenshots/Era_2020_Tiles.png)
+![Era 2020 Tileset](Era_2020_Tiles.png)

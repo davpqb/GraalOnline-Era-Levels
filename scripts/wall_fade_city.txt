@@ -1,6 +1,6 @@
 // Wall fade system — "city" tile variant
 // Inverted trigger logic from the white variant: these walls fade OUT
-// when the player enters the flanking zones (used for exterior-facing walls).
+// when the player enters the zones (used for exterior-facing walls).
 
 dontblock();
 drawoverplayer();

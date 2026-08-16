@@ -21,7 +21,7 @@ Three variants were needed depending on wall placement and desired behavior:
 
 Not every effect in these levels has its script preserved. Here's a gif showing a set of double doors sliding open on player interaction — the script behind it wasn't kept, but the mechanism is a fun one to reason through. 
 
-![Door Opening](screenshots/Hideout_Door_Open.gif)
+![Door Opening](screenshots/Hideout_Doors.gif)
 
 ## Level screenshots
 

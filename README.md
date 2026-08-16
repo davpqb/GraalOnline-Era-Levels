@@ -21,7 +21,7 @@ Three variants were needed depending on wall placement and desired behavior:
 
 Not every effect in these levels has its script preserved. Here's a gif showing a set of double doors sliding open on player interaction — the script behind it wasn't kept, but the mechanism is a fun one to reason through. If you're curious: what would you check for (trigger zone, player action event, animation state) to reproduce this in GS2?
 
-![Door Opening](Hideout_Door_Open.gif)
+![Door Opening](screenshots/Hideout_Door_Open.gif)
 
 ## Level screenshots
 
@@ -29,16 +29,16 @@ Not every effect in these levels has its script preserved. Here's a gif showing 
 ![Hideout Entrance](Hideout_Entrance.png)
 
 ### Lobby
-![Hideout Lobby](Hideout_Lobby.png)
+![Hideout Lobby](screenshots/Hideout_Lobby.png)
 
 ### Sparring Room
-![Sparring Room](Hideout_Spar.png)
+![Sparring Room](screenshots/Hideout_Spar.png)
 
 ### Throne Room (with custom art)
-![Throne Room with Art](Hideout_Throne_Incl_Art.png)
+![Throne Room with Art](screenshots/Hideout_Throne_Incl_Art.png)
 
 ## Tile work
 
 Custom and curated tileset used across the 2020-era levels, organized by category (terrain, water, furniture, blocking/non-blocking objects, animated tiles):
 
-![Era 2020 Tileset](Era_2020_Tiles.png)
+![Era 2020 Tileset](screenshots/Era_2020_Tiles.png)

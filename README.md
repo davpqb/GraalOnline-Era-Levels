@@ -3,7 +3,7 @@
 Brief overview of my personal work for GraalOnline
 
 ## In this repo
-- **Screenshots** — In-engine captures of finished level areas (hideout entrance, lobby, sparring room, throne room).
+- **`/screenshots`** — In-engine captures of finished level areas (hideout entrance, lobby, sparring room, throne room).
 - **`/scripts`** — Sample GS2 (GraalScript 2) source from the levels' interactive systems.
 
 ## Featured system: dynamic wall fading

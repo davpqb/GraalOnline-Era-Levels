@@ -1,8 +1,6 @@
 # Graal Online Era Levels
 Brief overview of my personal work for GraalOnline
 
-Led design and development of six original custom levels for **GraalOnline Era**, built in partnership with official platform staff. Owned end-to-end level creation across scripting (GScript), graphics (GFX), sound design (SFX), animation, and tile work, while directing a 4-person team to keep all elements — visual, audio, and interactive — cohesive across the levels.
-
 ## In this repo
 
 - **`/screenshots`** — In-engine captures of finished level areas (hideout entrance, lobby, sparring room, throne room).
@@ -20,7 +18,7 @@ Three variants were needed depending on wall placement and desired behavior:
 ## Level screenshots
 
 ### Hideout Entrance
-![Hideout Entrance](screenshots/Hideout_Entrance.png)
+![Hideout Entrance](Hideout_Entrance.png)
 
 ### Hideout Lobby
 ![Hideout Lobby](screenshots/Hideout_Lobby.png)
